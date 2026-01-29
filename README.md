@@ -108,7 +108,7 @@ January 2026
 ---
 
 ## 👤 Author
-SQL Training Materials
+[@Fleek691](https://github.com/Fleek691)
 
 ---
 
