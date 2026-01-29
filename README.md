@@ -52,6 +52,19 @@ Advanced query techniques and data aggregation.
 
 ---
 
+### Day 04 - SubQueries
+Focused practice on subqueries and nested query patterns.
+
+**Topics Covered:**
+- Subqueries in SELECT, FROM, and WHERE
+- Correlated vs. non-correlated subqueries
+- Performance considerations and readability
+
+**Files:**
+- [`SubQueries.sql`](Day-04-SubQueries/SubQueries.sql) - Subquery examples and exercises
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -73,6 +86,9 @@ Advanced query techniques and data aggregation.
    - Ensure AdventureWorks sample database is installed
    - Execute queries from the provided files
 
+4. **Day 04 Setup:**
+   - Execute `Day-04-SubQueries/SubQueries.sql`
+
 ---
 
 ## 📝 Learning Path
@@ -82,6 +98,7 @@ Follow the days in sequence for a structured learning experience:
 1. Start with basic queries and database operations (Day 01)
 2. Progress to stored procedures and CRUD operations (Day 02)
 3. Master advanced techniques like JOINs and GROUP BY (Day 03)
+4. Practice subqueries and nested query patterns (Day 04)
 
 ---
 
