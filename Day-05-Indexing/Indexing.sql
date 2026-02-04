@@ -67,3 +67,6 @@ ON dbo.SOH_Practice(SalesOrderID);
 DROP INDEX IF EXISTS CX_SOH_Practice_SalesOrderID ON dbo.SOH_Practice;
 
 select SalesOrderId from SOH_Practice where SalesOrderID=43672;
+
+---------------------------------------
+

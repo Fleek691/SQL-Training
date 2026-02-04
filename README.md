@@ -65,6 +65,32 @@ Focused practice on subqueries and nested query patterns.
 
 ---
 
+### Day 05 - Indexing
+Introduction to database indexing and performance optimization.
+
+**Topics Covered:**
+- Index types and strategies
+- Creating and managing indexes
+- Query performance analysis
+
+**Files:**
+- [`Indexing.sql`](Day-05-Indexing/Indexing.sql) - Indexing concepts and examples
+
+---
+
+### Day 06 - Indexing 2
+Advanced indexing techniques and performance testing.
+
+**Topics Covered:**
+- Index performance comparison
+- Clustered vs. Non-clustered indexes
+- Performance benchmarking
+
+**Files:**
+- [`IndexExample.sql`](Day-06-Indexing2/IndexExample.sql) - Performance testing with and without indexes
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -89,6 +115,12 @@ Focused practice on subqueries and nested query patterns.
 4. **Day 04 Setup:**
    - Execute `Day-04-SubQueries/SubQueries.sql`
 
+5. **Day 05 Setup:**
+   - Execute `Day-05-Indexing/Indexing.sql`
+
+6. **Day 06 Setup:**
+   - Execute `Day-06-Indexing2/IndexExample.sql`
+
 ---
 
 ## 📝 Learning Path
@@ -98,6 +130,9 @@ Follow the days in sequence for a structured learning experience:
 1. Start with basic queries and database operations (Day 01)
 2. Progress to stored procedures and CRUD operations (Day 02)
 3. Master advanced techniques like JOINs and GROUP BY (Day 03)
+4. Learn subquery patterns and optimization (Day 04)
+5. Understand database indexing fundamentals (Day 05)
+6. Apply advanced indexing strategies and performance testing (Day 06)
 4. Practice subqueries and nested query patterns (Day 04)
 
 ---
