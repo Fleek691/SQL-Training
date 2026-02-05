@@ -91,6 +91,26 @@ Advanced indexing techniques and performance testing.
 
 ---
 
+### Day 07 - Cursor
+Cursor usage, patterns, and stored-procedure integration.
+
+**Topics Covered:**
+- Cursor creation and iteration
+- Cursor-based updates
+- Error handling with TRY/CATCH
+- Stored procedures with cursors
+
+**Files:**
+- [`Alternative.sql`](Day-07-Cursor/Alternative.sql) - Alternative cursor approaches
+- [`CursorAdvanced.sql`](Day-07-Cursor/CursorAdvanced.sql) - Advanced cursor scenarios
+- [`CursorCreation.sql`](Day-07-Cursor/CursorCreation.sql) - Cursor creation basics
+- [`CursorIntermidiate.sql`](Day-07-Cursor/CursorIntermidiate.sql) - Intermediate cursor usage
+- [`CursorTable.sql`](Day-07-Cursor/CursorTable.sql) - Cursor tables example
+- [`StoredProcedureandCursor.sql`](Day-07-Cursor/StoredProcedureandCursor.sql) - Stored procedure with cursor
+- [`Table Creation.sql`](Day-07-Cursor/Table Creation.sql) - Table setup for cursor examples
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -120,6 +140,10 @@ Advanced indexing techniques and performance testing.
 
 6. **Day 06 Setup:**
    - Execute `Day-06-Indexing2/IndexExample.sql`
+
+7. **Day 07 Setup:**
+   - Execute `Day-07-Cursor/Table Creation.sql` to create required tables
+   - Run cursor examples and stored procedure scripts
 
 ---
 
@@ -155,7 +179,7 @@ Follow the days in sequence for a structured learning experience:
 ---
 
 ## 📅 Last Updated
-January 2026
+February 2026
 
 ---
 
